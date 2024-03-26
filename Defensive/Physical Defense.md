@@ -1,0 +1,1 @@
+Reduces your received physical damage lol
