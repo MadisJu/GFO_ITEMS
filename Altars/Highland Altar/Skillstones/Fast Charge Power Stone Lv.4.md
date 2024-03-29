@@ -1,5 +1,10 @@
+---
+tags:
+  - Skillstone
+---
 **TRADABLE**
-[[Artillerist Skill stones]]
+[[Artillerist Skill stones Lv.4]]
+[[Mechmaster skill stones Lv.4]]
 Obtainable from from the [[Highland altar]]
 
 When automatically using the skill "Core completed", you will additionally grant yourself the status "Complete amplification 4".
