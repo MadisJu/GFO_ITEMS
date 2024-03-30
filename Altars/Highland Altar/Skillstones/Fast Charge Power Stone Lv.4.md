@@ -1,6 +1,8 @@
 ---
 tags:
   - Skillstone
+  - Artillerist
+  - Mechmaster
 ---
 **TRADABLE**
 [[Artillerist Skill stones Lv.4]]
