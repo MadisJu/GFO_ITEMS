@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"c18000f609f7ecba","x":-760,"y":160,"width":400,"height":400,"type":"file","file":"GFO_ITEMS/Altars/Serenity Altar/Skillstones/Accurate Strike Stone Lv.4.md"},
+		{"id":"195fd19c221ef861","x":520,"y":160,"width":400,"height":400,"type":"file","file":"GFO_ITEMS/Altars/Altar of Spirits/Skillstones/Shield Bash Power Stone Lv.4 {HK}.md"},
+		{"id":"254ec0462205e201","x":-280,"y":160,"width":400,"height":400,"type":"file","file":"GFO_ITEMS/Altars/Serenity Altar/Skillstones/Weakness Strike Power Stone Lv.4.md"}
+	],
+	"edges":[]
+}
